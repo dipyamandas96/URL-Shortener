@@ -1,6 +1,6 @@
-# 🌐 Shrinkly Frontend
+# 🌐 DD Shortener Frontend
 
-The frontend client for **Shrinkly**, a modern URL shortening and real-time click tracking web application.
+The frontend client for **DD Shortener**, a modern URL shortening and real-time click tracking web application.
 
 Built with **Next.js 16**, **React 19**, **Tailwind CSS v4**, and **TypeScript**.
 

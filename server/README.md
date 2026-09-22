@@ -1,6 +1,6 @@
-# 🔌 Shrinkly Backend API
+# 🔌 DD Shortener Backend API
 
-RESTful API backend for **Shrinkly**, handling URL shortening, instant 302 redirections, atomic click analytics, and user authentication.
+RESTful API backend for **DD Shortener**, handling URL shortening, instant 302 redirections, atomic click analytics, and user authentication.
 
 Built with **Node.js (ESM)**, **Express 5**, and **MongoDB (Mongoose 9)**.
 

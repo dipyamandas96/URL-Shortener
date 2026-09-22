@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✂️ Shrinkly
+# ✂️ DD Shortener
 
 ### Modern, High-Performance URL Shortener & Real-Time Click Tracker
 
@@ -30,9 +30,9 @@ Transform lengthy, cluttered URLs into clean, shareable links in seconds — wit
 
 ## 📖 Overview
 
-**Shrinkly** is a production-grade full-stack URL shortening service engineered with **Next.js 16**, **Express 5**, and **MongoDB**. Designed with a focus on speed, privacy, and minimalist elegance, Shrinkly allows anyone to create short URLs immediately without being forced to create an account, while offering live click analytics and instant 302 redirections.
+**DD Shortener** is a production-grade full-stack URL shortening service engineered with **Next.js 16**, **Express 5**, and **MongoDB**. Designed with a focus on speed, privacy, and minimalist elegance, DD Shortener allows anyone to create short URLs immediately without being forced to create an account, while offering live click analytics and instant 302 redirections.
 
-### Why Shrinkly?
+### Why DD Shortener?
 - ⚡ **Zero-Friction Sharing**: Paste and shrink in a single click — no signup wall.
 - 🎯 **Reliable & Fast**: Direct HTTP 302 redirections with atomic click-counter updates.
 - 📊 **Built-In Analytics**: Track link performance, total hits, and creation timestamp anytime.
